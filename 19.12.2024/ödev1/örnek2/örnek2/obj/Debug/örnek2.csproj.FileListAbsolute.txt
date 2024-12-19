@@ -1,0 +1,10 @@
+C:\Users\H2O\Desktop\KORUMASIZ\SelcanTaylan\NTP\19.12.2024\örnek2\örnek2\bin\Debug\örnek2.exe.config
+C:\Users\H2O\Desktop\KORUMASIZ\SelcanTaylan\NTP\19.12.2024\örnek2\örnek2\bin\Debug\örnek2.exe
+C:\Users\H2O\Desktop\KORUMASIZ\SelcanTaylan\NTP\19.12.2024\örnek2\örnek2\bin\Debug\örnek2.pdb
+C:\Users\H2O\Desktop\KORUMASIZ\SelcanTaylan\NTP\19.12.2024\örnek2\örnek2\obj\Debug\örnek2.csproj.AssemblyReference.cache
+C:\Users\H2O\Desktop\KORUMASIZ\SelcanTaylan\NTP\19.12.2024\örnek2\örnek2\obj\Debug\örnek2.Form1.resources
+C:\Users\H2O\Desktop\KORUMASIZ\SelcanTaylan\NTP\19.12.2024\örnek2\örnek2\obj\Debug\örnek2.Properties.Resources.resources
+C:\Users\H2O\Desktop\KORUMASIZ\SelcanTaylan\NTP\19.12.2024\örnek2\örnek2\obj\Debug\örnek2.csproj.GenerateResource.cache
+C:\Users\H2O\Desktop\KORUMASIZ\SelcanTaylan\NTP\19.12.2024\örnek2\örnek2\obj\Debug\örnek2.csproj.CoreCompileInputs.cache
+C:\Users\H2O\Desktop\KORUMASIZ\SelcanTaylan\NTP\19.12.2024\örnek2\örnek2\obj\Debug\örnek2.exe
+C:\Users\H2O\Desktop\KORUMASIZ\SelcanTaylan\NTP\19.12.2024\örnek2\örnek2\obj\Debug\örnek2.pdb
