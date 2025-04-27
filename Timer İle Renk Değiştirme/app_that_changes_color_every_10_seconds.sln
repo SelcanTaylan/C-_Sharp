@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app_that_changes_color_every_10_seconds", "app_that_changes_color_every_10_seconds\app_that_changes_color_every_10_seconds.csproj", "{BADCB904-7435-441B-A5CA-2A42DB79844B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BADCB904-7435-441B-A5CA-2A42DB79844B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADCB904-7435-441B-A5CA-2A42DB79844B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADCB904-7435-441B-A5CA-2A42DB79844B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADCB904-7435-441B-A5CA-2A42DB79844B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9E88461-1640-46BC-9AEB-43C2F61571D4}
+	EndGlobalSection
+EndGlobal
