@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Desktop\ntp2\two_forms_one_app\two_forms_one_app\bin\Debug\two_forms_one_app.exe.config
+C:\Users\user\OneDrive\Desktop\ntp2\two_forms_one_app\two_forms_one_app\bin\Debug\two_forms_one_app.exe
+C:\Users\user\OneDrive\Desktop\ntp2\two_forms_one_app\two_forms_one_app\bin\Debug\two_forms_one_app.pdb
+C:\Users\user\OneDrive\Desktop\ntp2\two_forms_one_app\two_forms_one_app\obj\Debug\two_forms_one_app.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\ntp2\two_forms_one_app\two_forms_one_app\obj\Debug\two_forms_one_app.Form1.resources
+C:\Users\user\OneDrive\Desktop\ntp2\two_forms_one_app\two_forms_one_app\obj\Debug\two_forms_one_app.Form2.resources
+C:\Users\user\OneDrive\Desktop\ntp2\two_forms_one_app\two_forms_one_app\obj\Debug\two_forms_one_app.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\ntp2\two_forms_one_app\two_forms_one_app\obj\Debug\two_forms_one_app.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\ntp2\two_forms_one_app\two_forms_one_app\obj\Debug\two_forms_one_app.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\ntp2\two_forms_one_app\two_forms_one_app\obj\Debug\two_forms_one_app.exe
+C:\Users\user\OneDrive\Desktop\ntp2\two_forms_one_app\two_forms_one_app\obj\Debug\two_forms_one_app.pdb
