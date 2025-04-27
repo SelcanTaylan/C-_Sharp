@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Desktop\ntp2\restaurant_ordering_system\restaurant_ordering_system\obj\Debug\restaurant_ordering_system.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\ntp2\restaurant_ordering_system\restaurant_ordering_system\obj\Debug\restaurant_ordering_system.Form1.resources
+C:\Users\user\OneDrive\Desktop\ntp2\restaurant_ordering_system\restaurant_ordering_system\obj\Debug\restaurant_ordering_system.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\ntp2\restaurant_ordering_system\restaurant_ordering_system\obj\Debug\restaurant_ordering_system.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\ntp2\restaurant_ordering_system\restaurant_ordering_system\obj\Debug\restaurant_ordering_system.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\ntp2\restaurant_ordering_system\restaurant_ordering_system\bin\Debug\restaurant_ordering_system.exe.config
+C:\Users\user\OneDrive\Desktop\ntp2\restaurant_ordering_system\restaurant_ordering_system\bin\Debug\restaurant_ordering_system.exe
+C:\Users\user\OneDrive\Desktop\ntp2\restaurant_ordering_system\restaurant_ordering_system\bin\Debug\restaurant_ordering_system.pdb
+C:\Users\user\OneDrive\Desktop\ntp2\restaurant_ordering_system\restaurant_ordering_system\obj\Debug\restaurant_ordering_system.exe
+C:\Users\user\OneDrive\Desktop\ntp2\restaurant_ordering_system\restaurant_ordering_system\obj\Debug\restaurant_ordering_system.pdb
