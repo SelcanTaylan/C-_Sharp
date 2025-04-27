@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Desktop\ntp2\email_validation_tool\email_validation_tool\bin\Debug\email_validation_tool.exe.config
+C:\Users\user\OneDrive\Desktop\ntp2\email_validation_tool\email_validation_tool\bin\Debug\email_validation_tool.exe
+C:\Users\user\OneDrive\Desktop\ntp2\email_validation_tool\email_validation_tool\bin\Debug\email_validation_tool.pdb
+C:\Users\user\OneDrive\Desktop\ntp2\email_validation_tool\email_validation_tool\obj\Debug\email_validation_tool.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\ntp2\email_validation_tool\email_validation_tool\obj\Debug\email_validation_tool.Form1.resources
+C:\Users\user\OneDrive\Desktop\ntp2\email_validation_tool\email_validation_tool\obj\Debug\email_validation_tool.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\ntp2\email_validation_tool\email_validation_tool\obj\Debug\email_validation_tool.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\ntp2\email_validation_tool\email_validation_tool\obj\Debug\email_validation_tool.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\ntp2\email_validation_tool\email_validation_tool\obj\Debug\email_validation_tool.exe
+C:\Users\user\OneDrive\Desktop\ntp2\email_validation_tool\email_validation_tool\obj\Debug\email_validation_tool.pdb
