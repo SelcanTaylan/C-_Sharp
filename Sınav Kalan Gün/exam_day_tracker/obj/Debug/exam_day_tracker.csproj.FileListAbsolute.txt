@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Desktop\ntp2\exam_day_tracker\exam_day_tracker\bin\Debug\exam_day_tracker.exe.config
+C:\Users\user\OneDrive\Desktop\ntp2\exam_day_tracker\exam_day_tracker\bin\Debug\exam_day_tracker.exe
+C:\Users\user\OneDrive\Desktop\ntp2\exam_day_tracker\exam_day_tracker\bin\Debug\exam_day_tracker.pdb
+C:\Users\user\OneDrive\Desktop\ntp2\exam_day_tracker\exam_day_tracker\obj\Debug\exam_day_tracker.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\ntp2\exam_day_tracker\exam_day_tracker\obj\Debug\exam_day_tracker.Form1.resources
+C:\Users\user\OneDrive\Desktop\ntp2\exam_day_tracker\exam_day_tracker\obj\Debug\exam_day_tracker.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\ntp2\exam_day_tracker\exam_day_tracker\obj\Debug\exam_day_tracker.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\ntp2\exam_day_tracker\exam_day_tracker\obj\Debug\exam_day_tracker.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\ntp2\exam_day_tracker\exam_day_tracker\obj\Debug\exam_day_tracker.exe
+C:\Users\user\OneDrive\Desktop\ntp2\exam_day_tracker\exam_day_tracker\obj\Debug\exam_day_tracker.pdb
