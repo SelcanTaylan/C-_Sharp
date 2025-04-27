@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Desktop\ntp2\monitor_viewer\monitor_viewer\bin\Debug\monitor_viewer.exe.config
+C:\Users\user\OneDrive\Desktop\ntp2\monitor_viewer\monitor_viewer\bin\Debug\monitor_viewer.exe
+C:\Users\user\OneDrive\Desktop\ntp2\monitor_viewer\monitor_viewer\bin\Debug\monitor_viewer.pdb
+C:\Users\user\OneDrive\Desktop\ntp2\monitor_viewer\monitor_viewer\obj\Debug\monitor_viewer.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\ntp2\monitor_viewer\monitor_viewer\obj\Debug\monitor_viewer.Form1.resources
+C:\Users\user\OneDrive\Desktop\ntp2\monitor_viewer\monitor_viewer\obj\Debug\monitor_viewer.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\ntp2\monitor_viewer\monitor_viewer\obj\Debug\monitor_viewer.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\ntp2\monitor_viewer\monitor_viewer\obj\Debug\monitor_viewer.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\ntp2\monitor_viewer\monitor_viewer\obj\Debug\monitor_viewer.exe
+C:\Users\user\OneDrive\Desktop\ntp2\monitor_viewer\monitor_viewer\obj\Debug\monitor_viewer.pdb
