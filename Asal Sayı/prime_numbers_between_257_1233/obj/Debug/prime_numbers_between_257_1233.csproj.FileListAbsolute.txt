@@ -1,0 +1,5 @@
+C:\Users\user\OneDrive\Desktop\ntp2\prime_numbers_between_257_1233\prime_numbers_between_257_1233\obj\Debug\prime_numbers_between_257_1233.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\ntp2\prime_numbers_between_257_1233\prime_numbers_between_257_1233\obj\Debug\prime_numbers_between_257_1233.Form1.resources
+C:\Users\user\OneDrive\Desktop\ntp2\prime_numbers_between_257_1233\prime_numbers_between_257_1233\obj\Debug\prime_numbers_between_257_1233.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\ntp2\prime_numbers_between_257_1233\prime_numbers_between_257_1233\obj\Debug\prime_numbers_between_257_1233.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\ntp2\prime_numbers_between_257_1233\prime_numbers_between_257_1233\obj\Debug\prime_numbers_between_257_1233.csproj.CoreCompileInputs.cache
