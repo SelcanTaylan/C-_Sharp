@@ -1,7 +1,7 @@
 <!--Height-->
 <!--Italic-->
 # C_Sharp
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<img align='right' src='https://github.com/SelcanTaylan/C-_Sharp/blob/main/gif.gif' width='400'>
 
 - [Ağırlıklı Ortalama Hesaplama Uygulaması](https://github.com/SelcanTaylan/C-_Sharp/tree/main/13.02.2025)
 - [E-Posta Doğrulama Uygulaması](https://github.com/SelcanTaylan/C-_Sharp/tree/main/19.12.2024/%C3%B6dev1/%C3%B6dev1)
