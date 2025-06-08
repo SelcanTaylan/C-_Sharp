@@ -17,3 +17,5 @@
 - [Restoran Sipariş Sistemi Uygulaması](https://github.com/SelcanTaylan/C-_Sharp/tree/main/Restoran)
 - [Sınav Günü Takib Uygulaması](https://github.com/SelcanTaylan/C-_Sharp/tree/main/S%C4%B1nav%20Kalan%20G%C3%BCn)
 - [Timer Nesnesi ile 10 Saniyede Bir Renk Değiştiren Uygulama](https://github.com/SelcanTaylan/C-_Sharp/tree/main/Timer%20%C4%B0le%20Renk%20De%C4%9Fi%C5%9Ftirme)
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<br>
